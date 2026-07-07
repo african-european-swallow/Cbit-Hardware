@@ -1,6 +1,6 @@
-List of materals for the cbit (random numbers are adafruit ids):
-Wires used to bridge connections are not listed.
-Headers are used for the power and reset connections.
+List of materals for the cbit (numbers are adafruit ids):
+Wires used are not listed.
+Male headers are used for the power and reset connections.
   
 pcb and case files
 2x ~33mm m3 bolt and nut
@@ -9,18 +9,18 @@ screw pack: 3658
 2x qwiic connectors: 4210
 
 5 way navigation switch: 504
-capacitive touch breakout: 4830
+MPR121 capacitive touch breakout: 4830
 esp32-s3 feather: 5323
 battery: 328
-gpio expander: 5346
+MCP23017 i2c gpio expander: 5346
 sdcard breakout: 4682
 (optional) sdcard: 1294
 eyespi breakout: 5613
 eyespi cable: 5240
 reset button: 1119
-haptic motor driver: 2305
-haptic motor: 1201
 power switch: 805
+DRV2605L  haptic motor driver: 2305
+haptic motor: 1201
 qwiic port: 5625
 
-320x240 screen: 1480
+320x240 ILI9341 screen: 1480
